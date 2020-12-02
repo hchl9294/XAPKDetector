@@ -1,3 +1,17 @@
+脱壳工具
+XAPKDetector显示有关构建工具，库和APK / DEX文件保护的信息
+启发式扫描
+字符串查看器
+十六进制查看器
+熵查看器
+哈希查看器
+ELF查看器
+DEX原始查看器
+
+程序有两个版本。
+xad -GUI版本 xadc-控制台版本。
+
+
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/horsicq/XAPKDetector.svg)](https://github.com/horsicq/XAPKDetector/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XAPKDetector/total.svg)](https://github.com/horsicq/XAPKDetector/releases)
 [![gitlocalized ](https://gitlocalize.com/repo/4736/whole_project/badge.svg)](https://gitlocalize.com/repo/4736/whole_project?utm_source=badge)
